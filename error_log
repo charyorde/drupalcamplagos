@@ -1,0 +1,6 @@
+[31-Jul-2010 04:27:10] PHP Fatal error:  Call to undefined function  pager_query() in /home/druplngr/public_html/modules/path/path.admin.inc on line 39
+[31-Jul-2010 04:27:24] PHP Fatal error:  Call to undefined function  pager_query() in /home/druplngr/public_html/modules/path/path.admin.inc on line 39
+[31-Jul-2010 04:27:30] PHP Fatal error:  Call to undefined function  pager_query() in /home/druplngr/public_html/modules/path/path.admin.inc on line 39
+[31-Jul-2010 04:35:51] PHP Fatal error:  Call to undefined function  pager_query() in /home/druplngr/public_html/modules/path/path.admin.inc on line 39
+[31-Jul-2010 04:57:45] PHP Fatal error:  Call to undefined function  pager_query() in /home/druplngr/public_html/modules/path/path.admin.inc on line 39
+[31-Jul-2010 06:15:56] PHP Fatal error:  Call to undefined function  _rootcandy_links() in /home/druplngr/public_html/sites/all/themes/rootcandy/page.tpl.php on line 17

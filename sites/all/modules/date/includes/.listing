@@ -1,9 +1,0 @@
-drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:10 .
-drwxr-x--x   15 4072643  4072643      4096 Jul 25 16:10 ..
--rwxr-x---    1 4072643  4072643      9133 Jul 25 16:10 date_api.views.inc
--rwxr-x---    1 4072643  4072643      3071 Jul 25 16:10 date_api.views_default.inc
--rwxr-x---    1 4072643  4072643     15218 Jul 25 16:10 date_api_argument_handler.inc
--rwxr-x---    1 4072643  4072643      6249 Jul 25 16:10 date_api_fields.inc
--rwxr-x---    1 4072643  4072643     22843 Jul 25 16:10 date_api_filter_handler.inc
--rwxr-x---    1 4072643  4072643      2634 Jul 25 16:10 date_navigation_plugin_style.inc
--rwxr-x---    1 4072643  4072643      1328 Jul 25 16:10 date_plugin_display_attachment.inc

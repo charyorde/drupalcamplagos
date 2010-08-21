@@ -1,0 +1,7 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 20:46 .
+drwxr-x--x   35 4072643  4072643      4096 Jul 16 20:48 ..
+-rwxr-x---    1 4072643  4072643     14062 Jul 16 20:46 filter.admin.inc
+-rwxr-x---    1 4072643  4072643       329 Jul 16 20:46 filter.info
+-rwxr-x---    1 4072643  4072643      2935 Jul 16 20:46 filter.install
+-rwxr-x---    1 4072643  4072643     48976 Jul 16 20:46 filter.module
+-rwxr-x---    1 4072643  4072643      1338 Jul 16 20:46 filter.pages.inc

@@ -1,0 +1,6 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 20:46 .
+drwxr-x--x   35 4072643  4072643      4096 Jul 16 20:48 ..
+-rwxr-x---    1 4072643  4072643     26353 Jul 16 20:46 menu.admin.inc
+-rwxr-x---    1 4072643  4072643       325 Jul 16 20:46 menu.info
+-rwxr-x---    1 4072643  4072643      2236 Jul 16 20:46 menu.install
+-rwxr-x---    1 4072643  4072643     17977 Jul 16 20:46 menu.module

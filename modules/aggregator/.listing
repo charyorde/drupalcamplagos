@@ -1,0 +1,14 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 20:45 .
+drwxr-x--x   35 4072643  4072643      4096 Jul 16 20:48 ..
+-rwxr-x---    1 4072643  4072643      1185 Jul 16 20:45 aggregator-feed-source.tpl.php
+-rwxr-x---    1 4072643  4072643      1367 Jul 16 20:45 aggregator-item.tpl.php
+-rwxr-x---    1 4072643  4072643       123 Jul 16 20:45 aggregator-rtl.css
+-rwxr-x---    1 4072643  4072643       795 Jul 16 20:45 aggregator-summary-item.tpl.php
+-rwxr-x---    1 4072643  4072643       738 Jul 16 20:45 aggregator-summary-items.tpl.php
+-rwxr-x---    1 4072643  4072643       465 Jul 16 20:45 aggregator-wrapper.tpl.php
+-rwxr-x---    1 4072643  4072643     13997 Jul 16 20:45 aggregator.admin.inc
+-rwxr-x---    1 4072643  4072643       788 Jul 16 20:45 aggregator.css
+-rwxr-x---    1 4072643  4072643       336 Jul 16 20:45 aggregator.info
+-rwxr-x---    1 4072643  4072643      6992 Jul 16 20:45 aggregator.install
+-rwxr-x---    1 4072643  4072643     35909 Jul 16 20:45 aggregator.module
+-rwxr-x---    1 4072643  4072643     17696 Jul 16 20:45 aggregator.pages.inc

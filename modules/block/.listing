@@ -1,0 +1,9 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 20:45 .
+drwxr-x--x   35 4072643  4072643      4096 Jul 16 20:48 ..
+-rwxr-x---    1 4072643  4072643      3181 Jul 16 20:45 block-admin-display-form.tpl.php
+-rwxr-x---    1 4072643  4072643     16180 Jul 16 20:45 block.admin.inc
+-rwxr-x---    1 4072643  4072643       321 Jul 16 20:45 block.css
+-rwxr-x---    1 4072643  4072643       329 Jul 16 20:45 block.info
+-rwxr-x---    1 4072643  4072643      6090 Jul 16 20:45 block.install
+-rwxr-x---    1 4072643  4072643      4189 Jul 16 20:45 block.js
+-rwxr-x---    1 4072643  4072643     23486 Jul 16 20:45 block.module

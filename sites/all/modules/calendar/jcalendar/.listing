@@ -1,0 +1,9 @@
+drwxr-x--x    4 4072643  4072643      4096 Jul 25 16:05 .
+drwxr-x--x    9 4072643  4072643      4096 Jul 25 16:06 ..
+-rwxr-x---    1 4072643  4072643       128 Jul 25 16:05 Readme.txt
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:05 images
+-rwxr-x---    1 4072643  4072643       922 Jul 25 16:05 jcalendar.css
+-rwxr-x---    1 4072643  4072643       445 Jul 25 16:05 jcalendar.info
+-rwxr-x---    1 4072643  4072643      2660 Jul 25 16:05 jcalendar.js
+-rwxr-x---    1 4072643  4072643      2386 Jul 25 16:05 jcalendar.module
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:05 translations

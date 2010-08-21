@@ -1,0 +1,8 @@
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 19:10 .
+drwxr-x--x    8 4072643  4072643      4096 Jul 25 19:11 ..
+-rwxr-x---    1 4072643  4072643       365 Jul 25 19:10 rules_test.info
+-rwxr-x---    1 4072643  4072643       886 Jul 25 19:10 rules_test.module
+-rwxr-x---    1 4072643  4072643      1901 Jul 25 19:10 rules_test.rules.inc
+-rwxr-x---    1 4072643  4072643      4775 Jul 25 19:10 rules_test.rules_defaults.inc
+-rwxr-x---    1 4072643  4072643      2901 Jul 25 19:10 rules_test.test
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 19:11 translations

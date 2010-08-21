@@ -1,0 +1,11 @@
+drwxr-x--x    8 4072643  4072643      4096 Jul 25 19:11 .
+drwxr-x--x   29 4072643  4072643      4096 Jul 26 14:56 ..
+-rwxr-x---    1 4072643  4072643     14940 Jul 25 19:09 LICENSE.txt
+-rwxr-x---    1 4072643  4072643      2460 Jul 25 19:09 README.txt
+-rwxr-x---    1 4072643  4072643      2060 Jul 25 19:11 UPGRADE.txt
+drwxr-x--x    4 4072643  4072643      4096 Jul 26 14:02 rules
+drwxr-x--x    4 4072643  4072643      4096 Jul 25 19:10 rules_admin
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 19:10 rules_forms
+drwxr-x--x    4 4072643  4072643      4096 Jul 25 19:10 rules_scheduler
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 19:10 rules_test
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 19:11 translation

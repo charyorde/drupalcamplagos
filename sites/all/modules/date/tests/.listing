@@ -1,0 +1,8 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:10 .
+drwxr-x--x   15 4072643  4072643      4096 Jul 25 16:10 ..
+-rwxr-x---    1 4072643  4072643       805 Jul 25 16:10 README.txt
+-rwxr-x---    1 4072643  4072643     48967 Jul 25 16:10 USHolidays.ics
+-rwxr-x---    1 4072643  4072643       928 Jul 25 16:10 Yahoo.csv
+-rwxr-x---    1 4072643  4072643      3623 Jul 25 16:10 date_api.test
+-rwxr-x---    1 4072643  4072643     20273 Jul 25 16:10 date_repeat.test
+-rwxr-x---    1 4072643  4072643      3758 Jul 25 16:10 rrule.ics

@@ -1,0 +1,9 @@
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 18:58 .
+drwxr-x--x   11 4072643  4072643      4096 Jul 25 18:58 ..
+-rwxr-x---    1 4072643  4072643       207 Jul 25 18:58 CHANGELOG.txt
+-rwxr-x---    1 4072643  4072643       361 Jul 25 18:58 README.txt
+-rwxr-x---    1 4072643  4072643       390 Jul 25 18:58 emwave.info
+-rwxr-x---    1 4072643  4072643       777 Jul 25 18:58 emwave.install
+-rwxr-x---    1 4072643  4072643     16329 Jul 25 18:58 emwave.module
+-rwxr-x---    1 4072643  4072643      6723 Jul 25 18:58 emwave.theme.inc
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 18:58 providers

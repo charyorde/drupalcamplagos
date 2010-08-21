@@ -1,0 +1,4 @@
+name         = DrupalCamp Lagos Tweaks
+description  = DrupalCamp Lagos Tweaks
+package      = Custom
+core         = 6.x

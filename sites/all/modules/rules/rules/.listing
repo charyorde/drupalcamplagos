@@ -1,0 +1,13 @@
+drwxr-x--x    4 4072643  4072643      4096 Jul 26 14:02 .
+drwxr-x--x    8 4072643  4072643      4096 Jul 25 19:11 ..
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 19:09 modules
+-rwxr-x---    1 4072643  4072643     23451 Jul 25 19:09 rules.api.php
+-rwxr-x---    1 4072643  4072643      4155 Jul 25 19:09 rules.data_types.inc
+-rwxr-x---    1 4072643  4072643      7977 Jul 25 19:09 rules.export.inc
+-rwxr-x---    1 4072643  4072643       329 Jul 25 19:09 rules.info
+-rwxr-x---    1 4072643  4072643      3419 Jul 25 19:09 rules.input_evaluators.inc
+-rwxr-x---    1 4072643  4072643      8976 Jul 25 19:09 rules.install
+-rwxr-x---    1 4072643  4072643     34385 Jul 26 14:02 rules.module
+-rwxr-x---    1 4072643  4072643       384 Jul 25 19:09 rules.potx.inc
+-rwxr-x---    1 4072643  4072643     11679 Jul 25 19:09 rules.variables.inc
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 19:09 translations

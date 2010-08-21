@@ -1,0 +1,169 @@
+/* 
+    Document   : views
+    Created on : Jul 23, 2010, 5:37:51 PM
+    Author     : Administrator
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+/******************
+/* VIEW SCHEDULE BLOCK */
+/****************/
+#block-views-schedule-block_1 .view-schedule .view-content {
+    color: #fff
+}
+#block-views-schedule-block_1 .view-schedule .view-content .views-row {
+    margin: 15px 0 0 0;
+
+}
+#block-views-schedule-block_1 .views-field-field-schedule-activity-value {
+    font-weight: bold;
+    color: #A6CBDE
+}
+
+/******************
+/* VIEW SCHEDULE PAGE */
+/****************/
+
+.view-display-id-page_1 {
+}
+.view-display-id-page_1 .views-table {
+    color: #000;
+    margin-top: 20px;
+}
+.view-display-id-page_1 .views-table thead {
+    padding-bottom: 1em
+}
+.view-display-id-page_1 .views-table thead th {
+    font-size: 1.2em;
+     border-bottom: none
+}
+.view-display-id-page_1 .views-table tbody {
+    border: 1px solid #000;
+    margin-top:15px;
+    border-top: none
+}
+.view-display-id-page_1 .views-table tbody tr td {
+    padding: 5px
+}
+.view-display-id-page_1 .views-table tbody tr.odd td{
+    background: #fff
+}
+.view-display-id-page_1 .views-table tbody tr.odd td.views-field-field-schedule-activity-value {
+    /*background: #A3C7D9*/
+}
+.view-display-id-page_1 .views-table tbody tr.even td{
+    background: #E6E6E6
+}
+.view-display-id-page_1 .views-table tbody tr.even td.views-field-field-schedule-activity-value {
+    background: #A3C7D9
+}
+
+/************/
+/* VIEW NEWS */
+/************/
+.view-news {
+
+}
+.view-news .view-content {
+    color: #fff
+}
+.view-news .view-content .views-field-field-news-image-fid img{
+    float:left;
+    margin:5px 8px 8px 0;
+    padding:3px
+}
+
+/*************/
+/* VIEW EVENT */
+/**************/
+.view-event {
+    line-height: 230%
+}
+.view-event .views-field-title h1.title {
+    color: #003399;
+    font-size: 2.6em;
+    border-bottom: none
+}
+.view-display-id-block_1 .view-content .views-field-body {
+    font-size: 1.3em;
+}
+/*****************/
+/* VIEW SPONSOR */
+/***************/
+.view-sponsors {
+
+}
+#content_center .view-sponsors .view-content {
+    margin: 40px 0
+}
+
+/***************************/
+/* SROLLABLE SPEAKERS */
+/*********************/
+.view-scrollable-speakers {
+  /*background: #1A181D;*/
+  /*padding: 10px;*/
+  width: 450px;
+  margin: 20px 0
+}
+.view-scrollable-speakers .view-content {
+    font-size: 0.9em;
+}
+.view-scrollable-speakers .scrollable_content {
+  /*height: 240px;*/
+  height:251px;
+  /*margin: 0 5px;*/
+  width: 450px;
+}
+.view-scrollable-speakers .items {
+    background: #3D3D3F;
+    padding: 0;
+    margin: 0;
+}
+.view-scrollable-speakers .items .slide,
+.view-scrollable-speakers .items img {
+  background: #3D3D3F;
+  width: 162px;
+}
+
+.view-scrollable-speakers .items .slide {
+  /*height: 240px;*/
+  height: 158px;
+  /*margin: 0 5px;*/
+}
+
+.view-scrollable-speakers .items .slide div {
+  background: #3D3D3F;
+  clear: both;
+  height: auto;
+  /*padding: 0 5px;*/
+  padding: 2px;
+  text-align: left;
+  width: 162px;
+}
+
+.view-property-scrollable-view .items .slide .views-field-field-property-image-fid {
+  padding: 0;
+  width: 162px;
+}
+
+.view-scrollable-speakers .items .slide img {
+  height: auto;
+}
+
+.view-scrollable-speakers .items .slide .field-content {
+  /*float: right;*/
+  text-align: center;
+  margin-top: 0
+}
+
+.view-scrollable-speakers a.prev,
+.view-scrollable-speakers a.next {
+  margin: 158px 0;
+}

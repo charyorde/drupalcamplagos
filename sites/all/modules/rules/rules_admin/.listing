@@ -1,0 +1,16 @@
+drwxr-x--x    4 4072643  4072643      4096 Jul 25 19:10 .
+drwxr-x--x    8 4072643  4072643      4096 Jul 25 19:11 ..
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 19:10 icons
+-rwxr-x---    1 4072643  4072643       993 Jul 25 19:10 rules_admin.css
+-rwxr-x---    1 4072643  4072643      7167 Jul 25 19:10 rules_admin.export.inc
+-rwxr-x---    1 4072643  4072643     13370 Jul 25 19:10 rules_admin.inc
+-rwxr-x---    1 4072643  4072643       344 Jul 25 19:10 rules_admin.info
+-rwxr-x---    1 4072643  4072643      3372 Jul 25 19:10 rules_admin.install
+-rwxr-x---    1 4072643  4072643       695 Jul 25 19:10 rules_admin.js
+-rwxr-x---    1 4072643  4072643     10986 Jul 25 19:10 rules_admin.module
+-rwxr-x---    1 4072643  4072643       444 Jul 25 19:10 rules_admin.potx.inc
+-rwxr-x---    1 4072643  4072643      7223 Jul 25 19:10 rules_admin.render.inc
+-rwxr-x---    1 4072643  4072643     37343 Jul 25 19:10 rules_admin.rule_forms.inc
+-rwxr-x---    1 4072643  4072643      7824 Jul 25 19:10 rules_admin.rule_proxy.inc
+-rwxr-x---    1 4072643  4072643     13664 Jul 25 19:10 rules_admin.sets.inc
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 19:10 translations

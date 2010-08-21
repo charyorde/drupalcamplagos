@@ -1,0 +1,6 @@
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 16:52 .
+drwxr-x--x   11 4072643  4072643      4096 Jul 25 16:54 ..
+-rwxr-x---    1 4072643  4072643       337 Jul 25 16:52 content_copy.info
+-rwxr-x---    1 4072643  4072643     25109 Jul 25 16:52 content_copy.module
+-rwxr-x---    1 4072643  4072643      1481 Jul 25 16:52 content_copy_export_form.tpl.php
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:52 translations

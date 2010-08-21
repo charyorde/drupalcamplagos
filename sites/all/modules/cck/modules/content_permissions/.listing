@@ -1,0 +1,6 @@
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 16:53 .
+drwxr-x--x   11 4072643  4072643      4096 Jul 25 16:54 ..
+-rwxr-x---    1 4072643  4072643       343 Jul 25 16:53 content_permissions.info
+-rwxr-x---    1 4072643  4072643       414 Jul 25 16:53 content_permissions.install
+-rwxr-x---    1 4072643  4072643       649 Jul 25 16:53 content_permissions.module
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:53 translations

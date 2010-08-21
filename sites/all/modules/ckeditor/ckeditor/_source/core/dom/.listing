@@ -1,0 +1,15 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 22:20 .
+drwxr-x--x    4 4072643  4072643      4096 Jul 16 22:20 ..
+-rwxr-x---    1 4072643  4072643       690 Jul 16 22:20 comment.js
+-rwxr-x---    1 4072643  4072643      5378 Jul 16 22:20 document.js
+-rwxr-x---    1 4072643  4072643      1367 Jul 16 22:20 documentfragment.js
+-rwxr-x---    1 4072643  4072643      7603 Jul 16 22:20 domobject.js
+-rwxr-x---    1 4072643  4072643     44752 Jul 16 22:20 element.js
+-rwxr-x---    1 4072643  4072643      2981 Jul 16 22:20 elementpath.js
+-rwxr-x---    1 4072643  4072643      3630 Jul 16 22:20 event.js
+-rwxr-x---    1 4072643  4072643     16720 Jul 16 22:20 node.js
+-rwxr-x---    1 4072643  4072643       460 Jul 16 22:20 nodelist.js
+-rwxr-x---    1 4072643  4072643     57188 Jul 16 22:20 range.js
+-rwxr-x---    1 4072643  4072643      4047 Jul 16 22:20 text.js
+-rwxr-x---    1 4072643  4072643     13206 Jul 16 22:20 walker.js
+-rwxr-x---    1 4072643  4072643      2567 Jul 16 22:20 window.js

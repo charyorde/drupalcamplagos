@@ -1,0 +1,14 @@
+drwxr-x--x    4 4072643  4072643      4096 Jul 25 16:15 .
+drwxr-x--x   29 4072643  4072643      4096 Jul 26 14:56 ..
+-rwxr-x---    1 4072643  4072643     14940 Jul 25 16:14 LICENSE.txt
+-rwxr-x---    1 4072643  4072643      1245 Jul 25 16:14 README.txt
+-rwxr-x---    1 4072643  4072643       409 Jul 25 16:15 UPGRADE.txt
+-rwxr-x---    1 4072643  4072643       282 Jul 25 16:14 imagefield.css
+-rwxr-x---    1 4072643  4072643       354 Jul 25 16:14 imagefield.info
+-rwxr-x---    1 4072643  4072643     12902 Jul 25 16:14 imagefield.install
+-rwxr-x---    1 4072643  4072643     12936 Jul 25 16:14 imagefield.module
+-rwxr-x---    1 4072643  4072643      3174 Jul 25 16:14 imagefield_file.inc
+-rwxr-x---    1 4072643  4072643      1825 Jul 25 16:14 imagefield_formatter.inc
+-rwxr-x---    1 4072643  4072643     11450 Jul 25 16:14 imagefield_widget.inc
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:14 tests
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:15 translations

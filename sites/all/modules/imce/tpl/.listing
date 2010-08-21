@@ -1,0 +1,5 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:29 .
+drwxr-x--x    6 4072643  4072643      4096 Jul 25 16:29 ..
+-rwxr-x---    1 4072643  4072643      4937 Jul 25 16:29 imce-content.tpl.php
+-rwxr-x---    1 4072643  4072643      1139 Jul 25 16:29 imce-file-list.tpl.php
+-rwxr-x---    1 4072643  4072643      1051 Jul 25 16:29 imce-page.tpl.php

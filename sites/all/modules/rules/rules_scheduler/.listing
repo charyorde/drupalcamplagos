@@ -1,0 +1,10 @@
+drwxr-x--x    4 4072643  4072643      4096 Jul 25 19:10 .
+drwxr-x--x    8 4072643  4072643      4096 Jul 25 19:11 ..
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 19:10 includes
+-rwxr-x---    1 4072643  4072643      5782 Jul 25 19:10 rules_scheduler.admin.inc
+-rwxr-x---    1 4072643  4072643       335 Jul 25 19:10 rules_scheduler.info
+-rwxr-x---    1 4072643  4072643      2228 Jul 25 19:10 rules_scheduler.install
+-rwxr-x---    1 4072643  4072643      3646 Jul 25 19:10 rules_scheduler.module
+-rwxr-x---    1 4072643  4072643      4031 Jul 25 19:10 rules_scheduler.rules.inc
+-rwxr-x---    1 4072643  4072643      1531 Jul 25 19:10 rules_scheduler.rules_forms.inc
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 19:10 translations

@@ -1,0 +1,16 @@
+drwxr-x--x    9 4072643  4072643      4096 Jul 25 16:06 .
+drwxr-x--x   29 4072643  4072643      4096 Jul 26 14:56 ..
+-rwxr-x---    1 4072643  4072643     22124 Jul 25 16:04 CHANGELOG.txt
+-rwxr-x---    1 4072643  4072643     14940 Jul 25 16:05 LICENSE.txt
+-rwxr-x---    1 4072643  4072643      7856 Jul 25 16:04 calendar.css
+-rwxr-x---    1 4072643  4072643       409 Jul 25 16:04 calendar.info
+-rwxr-x---    1 4072643  4072643      8294 Jul 25 16:04 calendar.install
+-rwxr-x---    1 4072643  4072643     14915 Jul 25 16:04 calendar.module
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 16:04 calendar_ical
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 16:05 help
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:05 includes
+drwxr-x--x    4 4072643  4072643      4096 Jul 25 16:05 jcalendar
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:05 js
+-rwxr-x---    1 4072643  4072643      1393 Jul 25 16:05 readme.txt
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:06 theme
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:06 translations

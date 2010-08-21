@@ -1,0 +1,46 @@
+; $Id: drupalnigeria.info,v 1.4 2007/06/08 05:50:57 dries Exp $
+name = Drupal Nigeria
+description = Tableless theme with a black color scheme.
+version = VERSION
+core = 6.x
+engine = phptemplate
+
+stylesheets[all][] = css/style.css
+stylesheets[all][] = css/views.css
+;stylesheets[all][] = css/print.css
+;stylesheets[all][] = css/ddblock-custom.css
+
+scripts[] = js/scripts.js
+; scripts[] = js/accordion.js
+;scripts[]=js/jquery.hoverIntent.minified.js
+
+regions[primary_menu] = Menu
+regions[header] = Header
+regions[search_box] = Search Box
+regions[front_slide] = Front Slide Area
+regions[event_update] = Event Update
+regions[content] = Content
+regions[news] = News
+regions[schedule] = Schedule
+regions[sponsors] = Sponsors
+regions[qlinks] = Quick Links
+regions[footer] = Footer
+regions[right] = Right Sidebar
+regions[left] = Left Sidebar
+regions[follow] = Follow us
+regions[subscribe] = Subscribe
+regions[relatedlinks] = Related Links
+;regions[allworks] = Works Slide Area
+;regions[gsq] = Get Started Quickly
+;regions[textresize] = Text Resize
+;regions[within_node] = Within Node
+;regions[seealso] = See Also
+;regions[stylepage] = Page Style
+;regions[ctools] = Print, Email, PDF
+
+
+; Information added by drupal.org packaging script on 2009-02-25
+version = "6.15"
+project = "drupal"
+datestamp = "1235596218"
+

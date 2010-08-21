@@ -1,0 +1,14 @@
+drwxr-x--x    5 4072643  4072643      4096 Jul 25 13:05 .
+drwxr-x--x   29 4072643  4072643      4096 Jul 26 14:56 ..
+-rwxr-x---    1 4072643  4072643         0 Jul 25 13:04 CHANGELOG.txt
+-rwxr-x---    1 4072643  4072643      6373 Jul 25 13:05 README.txt
+-rwxr-x---    1 4072643  4072643       894 Jul 25 13:03 admin_menu-rtl.css
+-rwxr-x---    1 4072643  4072643      4015 Jul 25 13:03 admin_menu.css
+-rwxr-x---    1 4072643  4072643     19628 Jul 25 13:04 admin_menu.inc
+-rwxr-x---    1 4072643  4072643       386 Jul 25 13:04 admin_menu.info
+-rwxr-x---    1 4072643  4072643      1377 Jul 25 13:04 admin_menu.install
+-rwxr-x---    1 4072643  4072643      1818 Jul 25 13:04 admin_menu.js
+-rwxr-x---    1 4072643  4072643     12696 Jul 25 13:04 admin_menu.module
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 13:05 images
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 13:05 tests
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 13:06 translations

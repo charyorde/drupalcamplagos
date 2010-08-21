@@ -1,0 +1,17 @@
+drwxr-x--x    3 4072643  4072643      4096 Jul 16 22:27 .
+drwxr-x--x    5 4072643  4072643      4096 Jul 16 22:27 ..
+-rwxr-x---    1 4072643  4072643     15504 Jul 16 22:27 dialog.css
+-rwxr-x---    1 4072643  4072643       549 Jul 16 22:27 editor.css
+-rwxr-x---    1 4072643  4072643      1312 Jul 16 22:27 elementspath.css
+-rwxr-x---    1 4072643  4072643      5879 Jul 16 22:27 icons.css
+-rwxr-x---    1 4072643  4072643      4365 Jul 16 22:27 icons.png
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 22:27 images
+-rwxr-x---    1 4072643  4072643      2804 Jul 16 22:27 mainui.css
+-rwxr-x---    1 4072643  4072643      4237 Jul 16 22:27 menu.css
+-rwxr-x---    1 4072643  4072643      3540 Jul 16 22:27 panel.css
+-rwxr-x---    1 4072643  4072643       859 Jul 16 22:27 presets.css
+-rwxr-x---    1 4072643  4072643      1634 Jul 16 22:27 reset.css
+-rwxr-x---    1 4072643  4072643      6991 Jul 16 22:27 richcombo.css
+-rwxr-x---    1 4072643  4072643      2153 Jul 16 22:27 skin.js
+-rwxr-x---    1 4072643  4072643      1910 Jul 16 22:27 templates.css
+-rwxr-x---    1 4072643  4072643     10238 Jul 16 22:27 toolbar.css

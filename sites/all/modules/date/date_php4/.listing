@@ -1,0 +1,14 @@
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 16:07 .
+drwxr-x--x   15 4072643  4072643      4096 Jul 25 16:10 ..
+-rwxr-x---    1 4072643  4072643     38450 Jul 25 16:07 date_php4.inc
+-rwxr-x---    1 4072643  4072643       426 Jul 25 16:07 date_php4.info
+-rwxr-x---    1 4072643  4072643       392 Jul 25 16:07 date_php4.install
+-rwxr-x---    1 4072643  4072643      2337 Jul 25 16:07 date_php4.module
+-rwxr-x---    1 4072643  4072643     41405 Jul 25 16:07 date_php4_calc.inc
+-rwxr-x---    1 4072643  4072643     13782 Jul 25 16:07 date_php4_lib.inc
+-rwxr-x---    1 4072643  4072643      1979 Jul 25 16:07 date_php4_missing_data.inc
+-rwxr-x---    1 4072643  4072643     68112 Jul 25 16:07 date_php4_tz_abbreviations_list.inc
+-rwxr-x---    1 4072643  4072643    111441 Jul 25 16:07 date_php4_tz_create.inc
+-rwxr-x---    1 4072643  4072643     15697 Jul 25 16:07 date_php4_tz_identifiers.inc
+-rwxr-x---    1 4072643  4072643     30376 Jul 25 16:07 date_php4_tz_map.inc
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:08 translations

@@ -1,0 +1,62 @@
+#Registration Fields
+
+1. Title
+2. First Name
+3. Lastname
+4. Preferred Username
+5. Email Address
+6. Preferred Password
+7. Cell Phone
+8. Home Address
+    Country
+    Address
+    City
+    Phone
+
+9. Work Information
+    Job Title
+    Company / Organization
+    Work Phone
+    Website
+10. What is your Social Media URL? Examples: http://www.facebook.com/opencamp, http://www.linkedin.com/members/opencamp, http://www.youtube.com/opencamp
+
+11. Gender
+12. Date of Birth
+13.
+
+
+# Session Fields
+1. Session paper title
+2. Speaker or speakers
+3. Session Slideshow (Powered by Emfield)
+4. Speaker Picture
+
+
+# Schedule or Time table or timesheet
+
+1. Sessions
+2. Drupal Passioners
+3. Code Sharing and Support - Have any Drupal project you will like some helping hand on? Or you need handson skills to get started quickly? This is where you can find help from some Drupal Ninjas.
+4. DrupalCamp Lagos website architecture and management - Volunteers for the DrupalCamp Lagos website architecture design and management are welcome.
+
+Note: #2, #3 and #4 will take place 15 minutes after each Talk Sessions
+For every Talk session, there will be a Drupal Passioners discussion
+
+# Schedule Fields
+1. Schedule Time period
+2. Schedule Activity
+3. Schedule Session speaker 
+
+#others
+We will also like to invite Drupal community speakers to join us
+
+# Provide list of organizers on Drupal Nigeria Group on d.o
+
+#The way things work
+
+1. On the schedule, different things will be happening at the same time.
+2. That is, people are meant to attend the sessions and events (be it Drupal Passioners, Code Sharing & Support, Talk Session or DrupalCamp Lagos website architecture and management)
+3. Talk Session comes first, then after that people can join the other events
+
+
+No matter what node type of $node the hook exists, the node_hook function still returns true.

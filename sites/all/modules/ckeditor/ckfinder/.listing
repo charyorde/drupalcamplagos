@@ -1,0 +1,17 @@
+drwxr-x--x    9 4072643  4072643      4096 Jul 16 23:11 .
+drwxr-x--x    7 4072643  4072643      4096 Jul 16 22:59 ..
+drwxr-x--x    3 4072643  4072643      4096 Jul 16 23:07 _samples
+-rwxr-x---    1 4072643  4072643      3020 Jul 16 22:59 ckfinder.html
+-rwxr-x---    1 4072643  4072643    228005 Jul 16 22:59 ckfinder.js
+-rwxr-x---    1 4072643  4072643       562 Jul 16 22:59 ckfinder.php
+-rwxr-x---    1 4072643  4072643      6552 Jul 16 22:59 ckfinder_v1.js
+-rwxr-x---    1 4072643  4072643       323 Jul 16 22:59 config.js
+-rwxr-x---    1 4072643  4072643      9239 Jul 16 23:11 config.php
+drwxr-x--x    3 4072643  4072643      4096 Jul 16 22:59 core
+drwxr-x--x    6 4072643  4072643      4096 Jul 16 23:02 help
+-rwxr-x---    1 4072643  4072643       229 Jul 16 23:03 install.txt
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 23:04 lang
+-rwxr-x---    1 4072643  4072643      8836 Jul 16 23:04 license.txt
+drwxr-x--x    6 4072643  4072643      4096 Jul 16 23:05 plugins
+drwxr-x--x    4 4072643  4072643      4096 Jul 16 23:06 skins
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 23:07 userfiles

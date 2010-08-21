@@ -1,0 +1,9 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 22:20 .
+drwxr-x--x    4 4072643  4072643      4096 Jul 16 22:20 ..
+-rwxr-x---    1 4072643  4072643      3568 Jul 16 22:20 basicwriter.js
+-rwxr-x---    1 4072643  4072643       913 Jul 16 22:20 cdata.js
+-rwxr-x---    1 4072643  4072643      1201 Jul 16 22:20 comment.js
+-rwxr-x---    1 4072643  4072643      6121 Jul 16 22:20 element.js
+-rwxr-x---    1 4072643  4072643      6544 Jul 16 22:20 filter.js
+-rwxr-x---    1 4072643  4072643     14032 Jul 16 22:20 fragment.js
+-rwxr-x---    1 4072643  4072643      1112 Jul 16 22:20 text.js

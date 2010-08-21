@@ -1,0 +1,9 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 21:07 .
+drwxr-x--x   16 4072643  4072643      4096 Jul 16 21:09 ..
+-rwxr-x---    1 4072643  4072643       722 Jul 16 21:07 views_handler_argument_aggregator_category_cid.inc
+-rwxr-x---    1 4072643  4072643       693 Jul 16 21:07 views_handler_argument_aggregator_fid.inc
+-rwxr-x---    1 4072643  4072643      1683 Jul 16 21:07 views_handler_field_aggregator_category.inc
+-rwxr-x---    1 4072643  4072643       390 Jul 16 21:07 views_handler_field_aggregator_item_description.inc
+-rwxr-x---    1 4072643  4072643      1214 Jul 16 21:07 views_handler_field_aggregator_title_link.inc
+-rwxr-x---    1 4072643  4072643       583 Jul 16 21:07 views_handler_filter_aggregator_category_cid.inc
+-rwxr-x---    1 4072643  4072643      2003 Jul 16 21:07 views_plugin_row_aggregator_rss.inc

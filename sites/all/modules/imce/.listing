@@ -1,0 +1,11 @@
+drwxr-x--x    6 4072643  4072643      4096 Jul 25 16:29 .
+drwxr-x--x   29 4072643  4072643      4096 Jul 26 14:56 ..
+-rwxr-x---    1 4072643  4072643     14940 Jul 25 16:29 LICENSE.txt
+-rwxr-x---    1 4072643  4072643     10246 Jul 25 16:29 README.txt
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:29 css
+-rwxr-x---    1 4072643  4072643       328 Jul 25 16:29 imce.info
+-rwxr-x---    1 4072643  4072643      2652 Jul 25 16:29 imce.install
+-rwxr-x---    1 4072643  4072643      6020 Jul 25 16:29 imce.module
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:29 inc
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:29 js
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:29 tpl

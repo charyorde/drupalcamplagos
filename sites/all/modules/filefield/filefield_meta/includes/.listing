@@ -1,0 +1,7 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:34 .
+drwxr-x--x    4 4072643  4072643      4096 Jul 25 16:34 ..
+-rwxr-x---    1 4072643  4072643      5635 Jul 25 16:34 filefield_meta.views.inc
+-rwxr-x---    1 4072643  4072643      1783 Jul 25 16:34 filefield_meta_handler_field_bitrate.inc
+-rwxr-x---    1 4072643  4072643      2138 Jul 25 16:34 filefield_meta_handler_field_duration.inc
+-rwxr-x---    1 4072643  4072643      1772 Jul 25 16:34 filefield_meta_handler_field_samplerate.inc
+-rwxr-x---    1 4072643  4072643      1309 Jul 25 16:34 filefield_meta_handler_field_tags.inc

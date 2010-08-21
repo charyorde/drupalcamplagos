@@ -1,0 +1,8 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:10 .
+drwxr-x--x   15 4072643  4072643      4096 Jul 25 16:10 ..
+-rwxr-x---    1 4072643  4072643      1572 Jul 25 16:10 date-navigation.tpl.php
+-rwxr-x---    1 4072643  4072643      1301 Jul 25 16:10 date-valarm.tpl.php
+-rwxr-x---    1 4072643  4072643       435 Jul 25 16:10 date-vcalendar.tpl.php
+-rwxr-x---    1 4072643  4072643      1687 Jul 25 16:10 date-vevent.tpl.php
+-rwxr-x---    1 4072643  4072643      1694 Jul 25 16:10 date-views-filter-form.tpl.php
+-rwxr-x---    1 4072643  4072643     14619 Jul 25 16:10 theme.inc

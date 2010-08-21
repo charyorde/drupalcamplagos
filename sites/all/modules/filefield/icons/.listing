@@ -1,0 +1,17 @@
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 16:35 .
+drwxr-x--x    8 4072643  4072643      4096 Jul 25 16:35 ..
+-rwxr-x---    1 4072643  4072643       205 Jul 25 16:34 application-octet-stream.png
+-rwxr-x---    1 4072643  4072643       406 Jul 25 16:34 application-pdf.png
+-rwxr-x---    1 4072643  4072643       205 Jul 25 16:34 application-x-executable.png
+-rwxr-x---    1 4072643  4072643       367 Jul 25 16:34 audio-x-generic.png
+-rwxr-x---    1 4072643  4072643       443 Jul 25 16:34 image-x-generic.png
+-rwxr-x---    1 4072643  4072643       276 Jul 25 16:34 package-x-generic.png
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 14:21 protocons
+-rwxr-x---    1 4072643  4072643       324 Jul 25 16:35 text-html.png
+-rwxr-x---    1 4072643  4072643       236 Jul 25 16:35 text-plain.png
+-rwxr-x---    1 4072643  4072643       236 Jul 25 16:35 text-x-generic.png
+-rwxr-x---    1 4072643  4072643       338 Jul 25 16:35 text-x-script.png
+-rwxr-x---    1 4072643  4072643       230 Jul 25 16:35 video-x-generic.png
+-rwxr-x---    1 4072643  4072643       253 Jul 25 16:35 x-office-document.png
+-rwxr-x---    1 4072643  4072643       240 Jul 25 16:35 x-office-presentation.png
+-rwxr-x---    1 4072643  4072643       240 Jul 25 16:35 x-office-spreadsheet.png

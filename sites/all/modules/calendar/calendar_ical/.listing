@@ -1,0 +1,12 @@
+drwxr-x--x    3 4072643  4072643      4096 Jul 25 16:04 .
+drwxr-x--x    9 4072643  4072643      4096 Jul 25 16:06 ..
+-rwxr-x---    1 4072643  4072643      2006 Jul 25 16:04 calendar-view-ical.tpl.php
+-rwxr-x---    1 4072643  4072643       401 Jul 25 16:04 calendar_ical.info
+-rwxr-x---    1 4072643  4072643      2224 Jul 25 16:04 calendar_ical.install
+-rwxr-x---    1 4072643  4072643       841 Jul 25 16:04 calendar_ical.module
+-rwxr-x---    1 4072643  4072643      2560 Jul 25 16:04 calendar_ical.views.inc
+-rwxr-x---    1 4072643  4072643      4145 Jul 25 16:04 calendar_ical_admin.inc
+-rwxr-x---    1 4072643  4072643      7356 Jul 25 16:04 calendar_plugin_display_ical.inc
+-rwxr-x---    1 4072643  4072643     10772 Jul 25 16:04 calendar_plugin_style_ical.inc
+-rwxr-x---    1 4072643  4072643      3241 Jul 25 16:04 theme.inc
+drwxr-x--x    2 4072643  4072643      4096 Jul 25 16:04 translations

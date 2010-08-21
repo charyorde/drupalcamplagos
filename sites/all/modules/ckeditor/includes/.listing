@@ -1,0 +1,11 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 22:28 .
+drwxr-x--x    7 4072643  4072643      4096 Jul 16 22:59 ..
+-rwxr-x---    1 4072643  4072643     63560 Jul 16 22:28 ckeditor.admin.inc
+-rwxr-x---    1 4072643  4072643      1627 Jul 16 22:28 ckeditor.admin.js
+-rwxr-x---    1 4072643  4072643      1352 Jul 16 22:28 ckeditor.drush.inc
+-rwxr-x---    1 4072643  4072643     12345 Jul 16 22:28 ckeditor.lib.inc
+-rwxr-x---    1 4072643  4072643     13629 Jul 16 22:28 ckeditor.page.inc
+-rwxr-x---    1 4072643  4072643      3939 Jul 16 22:28 ckeditor.popup.html
+-rwxr-x---    1 4072643  4072643      7424 Jul 16 22:28 ckeditor.user.inc
+-rwxr-x---    1 4072643  4072643      9935 Jul 16 22:28 ckeditor.utils.js
+-rwxr-x---    1 4072643  4072643      3121 Jul 16 22:28 filemanager.config.php

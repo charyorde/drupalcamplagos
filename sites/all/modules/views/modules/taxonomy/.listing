@@ -1,0 +1,15 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 21:09 .
+drwxr-x--x   16 4072643  4072643      4096 Jul 16 21:09 ..
+-rwxr-x---    1 4072643  4072643       493 Jul 16 21:09 views_handler_argument_taxonomy.inc
+-rwxr-x---    1 4072643  4072643      1453 Jul 16 21:09 views_handler_argument_term_node_tid.inc
+-rwxr-x---    1 4072643  4072643      5272 Jul 16 21:09 views_handler_argument_term_node_tid_depth.inc
+-rwxr-x---    1 4072643  4072643      1497 Jul 16 21:09 views_handler_argument_term_node_tid_depth_modifier.inc
+-rwxr-x---    1 4072643  4072643       542 Jul 16 21:09 views_handler_argument_vocabulary_vid.inc
+-rwxr-x---    1 4072643  4072643      1901 Jul 16 21:09 views_handler_field_taxonomy.inc
+-rwxr-x---    1 4072643  4072643      4327 Jul 16 21:09 views_handler_field_term_node_tid.inc
+-rwxr-x---    1 4072643  4072643      9552 Jul 16 21:09 views_handler_filter_term_node_tid.inc
+-rwxr-x---    1 4072643  4072643      3415 Jul 16 21:09 views_handler_filter_term_node_tid_depth.inc
+-rwxr-x---    1 4072643  4072643       501 Jul 16 21:09 views_handler_filter_vocabulary_vid.inc
+-rwxr-x---    1 4072643  4072643      2513 Jul 16 21:09 views_handler_relationship_node_term_data.inc
+-rwxr-x---    1 4072643  4072643      3211 Jul 16 21:09 views_plugin_argument_default_taxonomy_tid.inc
+-rwxr-x---    1 4072643  4072643      5905 Jul 16 21:09 views_plugin_argument_validate_taxonomy_term.inc

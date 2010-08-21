@@ -1,0 +1,7 @@
+drwxr-x--x    2 4072643  4072643      4096 Jul 16 20:49 .
+drwx--x--x    9 4072643  4072643      4096 Jul 16 20:53 ..
+-rwxr-x---    1 4072643  4072643       628 Jul 16 20:49 code-clean.sh
+-rwxr-x---    1 4072643  4072643      4946 Jul 16 20:49 code-style.pl
+-rwxr-x---    1 4072643  4072643       124 Jul 16 20:49 cron-curl.sh
+-rwxr-x---    1 4072643  4072643       136 Jul 16 20:49 cron-lynx.sh
+-rwxr-x---    1 4072643  4072643      4257 Jul 16 20:49 drupal.sh

@@ -89,7 +89,7 @@
  *   $db_url = 'mysqli://username:password@localhost/databasename';
  *   $db_url = 'pgsql://username:password@localhost/databasename';
  */
-$db_url = 'mysqli://druplngr_drupngr:myworld07@localhost/druplngr_druplngr';
+$db_url = 'mysqli://druplngr_devuser:d5vu$5r@localhost/druplngr_devdb';
 $db_prefix = '';
 
 /**

@@ -82,8 +82,6 @@ h6 {
     margin:0 auto;
     width:83em;
     position:relative;
-    /*background:#f1f1f1;*/
-    /*height:700px*/
 }
 p {
   font-size: 1em;
@@ -96,27 +94,20 @@ p {
 /**********/
 #header {
     width:100%;
-    /*height: 106px;*/
-    /*height: 90px*/
-    /*border: solid 1px #fff*/
 }
 .header-wrapper {
     width:100%;
-    /*border:solid 1px #fff;*/
     margin:0 auto;
 }
 .header-wrapper #dbrand {
-    /*float:left*/
 }
 .header-wrapper #dbrand #logo {
-    /*background: #323232;*/
     margin-top: 5px;
     float: left
 }
 .header-wrapper #dbrand .site-slogan {
     color:#fff;
     font-size: 1.5em;
-    /*padding: 0 0 0 90px;*/
     margin: 35px 0 0 20px;
     float: left;
     font-family: "Trebuchet MS"
@@ -124,8 +115,6 @@ p {
 .header-wrapper #header-right {
     float:right;
     width:55em; /* 660px */
-    /*border:solid 1px #fff;
-    height:158px;*/
     padding:20px 0 0 0
     
 }
@@ -135,35 +124,23 @@ p {
     float:right;
     color:#fff;
     font-size: 0.9em;
-    /*border:solid 1px #fff*/
 }
 #header-right #search {
     width:20em;
-    /*margin:20px 0;*/
     height:40px;
-    /*border:solid 1px aqua;*/
     float: right
 }
 #site-menu {
     width:100%;
-    /*height:105px;*/
-   /*border:solid 1px #990000;
-     text-align: right*/
     list-style:none;
     margin-top: 40px;
     
 }
 #site-menu .menu {
         width:100%; /* 485px */
-	/*height:56px;  36/12 = 3em  */
-	/*padding-top:0.6%;*/
 	margin-top:0.4%;
 	font-size:0.9em;
         margin:0 auto;
-        /*height:36px;  36/12 = 3em  */
-        /*float:right;
-        text-align: right;*/
-	/*border:solid 1px #fff*/
 }
 #site-menu .block-menu {
 }
@@ -179,35 +156,25 @@ p {
 #site-menu .menu ul {
 	width:100%;
 	display:inline;
-        /*margin: 30px 0*/
 }
 #site-menu .menu ul li.leaf{
     margin-left:0;
     padding-right: 0
 }
 #site-menu .menu li {
-	/*line-height:50px;*/
 	font-size:1.2em;
 	display:inline;
-	/*padding-right:6.25em;*/
-	/*padding-right:2.5em;*/
         margin-left: 0
 }
 #site-menu .menu li a {
-	/*color:#fff;*/
 	font-weight:bold;
-	/*padding:8.5px 8.5px 11px 8.5px;*/
 	padding:0.9%;
         color: #6699FF;
-        /*padding: 2.5%;*/
-        /*background: #333300*/
 }
 #site-menu .menu li a:link {
 
 }
 #site-menu .menu li a:active {
-	/*color:#fff;*/
-	/*padding:0.3%;*/
 }
 #site-menu .menu li a:hover {
     color:#FFCC09
@@ -219,6 +186,7 @@ p {
 }
 #site-menu .menu li.active-trail {
 }
+
 /**********/
 /* LISTS */
 /*******/
@@ -369,17 +337,14 @@ div.content th img {
 h1.title {                                        /* page titles */
   border-bottom: 1px solid #D6DDB9;
   clear: left;    /* LTR */
-  /*font-family: Myriad Pro, Myriad Web Pro Regular, Lucida Grande, Geneva, Trebuchet MS, sans-serif;*/
   font-size: 1.833em;
   font-weight: 600;
   line-height: 1.272em;
 }
 
 h2.title {                                        /* block titles, node titles */
-  /*font-family: Myriad Pro, Myriad Web Pro Regular, Lucida Grande, Geneva, Trebuchet MS, sans-serif;*/
   font-size: 1.333em;
   font-weight: 600;
-  /*text-transform: uppercase;*/
   color:#FFCC09
 }
 
@@ -400,26 +365,18 @@ h4.title {
   color:#FFCC09
 }
 div.node h2.title {
-  /*border-bottom: 1px solid #d6ddb9;*/
 }
 /******************/
 /* CONTENT REGION */
 /*****************/
 #content {
 	width:100%;
-	/*margin:40px auto;*/
         margin: 10px auto;
-	/*border:solid 1px #FC3;*/
-	/*height:70em;*/
-	/*color:#fff;*/
 	position:relative;
-	/*background:#fff;*/
-	/*padding:10px;*/
 }
 .inner-page {
     background: #99CC33;
     border: solid 3px #333300;
-    /*padding: 8px 0 8px 8px*/
 }
 .inner-page div {
 }
@@ -479,9 +436,7 @@ div.node h2.title {
     background: transparent url('../images/transparent-murkygreen.png') repeat;
 }
 #stayinformed #social .subscribe{
-    /*width: 200px;*/
     height: 40px;
-    /*border: solid 1px #fff;*/
     float: left;
     line-height: 40px;
     margin: 0 0 0 10px
@@ -494,7 +449,6 @@ div.node h2.title {
 #stayinformed #social .follow {
     width: 200px;
     height: 40px;
-    /*border: solid 1px #fff;*/
     float: left;
      line-height: 40px;
 }
@@ -596,9 +550,7 @@ div.footer_follow table.views-view-grid td {
 /* FOOTER REGION */
 /****************/
 #footer {
-    /*margin-top:5px;*/
     width:100%;
-    /*border-top:solid 3px #063d6c;*/
     padding:5px 0;
     padding-bottom:0;
     font-size:0.9em;
@@ -608,18 +560,13 @@ div.footer_follow table.views-view-grid td {
     clear: both
 }
 #footer .copyright {
-    /*width:308px;*/
     height:30px;
-    /*margin-left:auto;
-    margin-right:auto;*/
     text-align:left;
     color:#fff;
     float:left;
-    /*border:solid 1px #fff*/
 }
 #footer .footer_follow {
     width:208px;
-    /*height:33px;*/
     float:right;
 }
 /************************/
@@ -723,9 +670,7 @@ div.node.full-node div.content {
 /**********/
 .block {
   padding-bottom: 0.25em;
-  /*margin-bottom: 1.5em;*/
   margin-bottom: 0.25em;
-  /*-moz-border-radius: 5px;*/
 }
 div.block .title {
 }
@@ -802,10 +747,8 @@ form {
 select.form-select,
 input.form-text,
 textarea.form-textarea {                                      /* default styling for all text fields */
-  /*background: #F6F9FB url('images/form-bg.png') left top;*/
   color: #666666;
   border: 1px solid #9BABB0;
-  /*padding: 2px 0;*/
   padding: 4px;
   font-weight:bold;
   font-family: Arial;
@@ -815,7 +758,6 @@ textarea.form-textarea {                                      /* default styling
 }
 div.form-item label {
     font-weight:bold;
-    /*color: #FFCC09*/
 
 }
 input.form-submit,
@@ -1264,13 +1206,10 @@ blockquote a:link {
 .profile-item {
     border: solid 1px #7d7d7d;
     width: 350px;
-    /*height: 150px;*/
     margin: 10px 0 10px 0;
 }
 .profile .site-info {
     width: 100%;
-    /*border: solid 1px #7d7d7d;
-    height: 100px;*/
     margin: 10px 0
 }
 /******************/
@@ -1308,7 +1247,6 @@ blockquote a:link {
     font-weight: bold
 }
 .view div.views-field-phpcode .hidden {
-  /*display: hidden;*/
   visibility: hidden;
 }
 
@@ -1411,23 +1349,13 @@ div.drupal-tabs ul.primary li {
 }
 div.drupal-tabs ul.primary li a {
     background-color:#1a1a1a;
-    /*border-color:#BBBBBB;
-    border-style:solid solid none;
-    border-width:1px;
-    height:auto;*/
-    /*margin-right:0.5em;*/
-    /*padding:0 1em;*/
     border:none;
     padding:8px;
     text-decoration:none;
     color:#fff
 }
 div.drupal-tabs ul.primary li.active a{
-    /*background-color:#FFFFFF;*/
     background:#66060e;
-    /*border-color:#BBBBBB #BBBBBB #FFFFFF;
-    border-style:solid;
-    border-width:1px;*/
     border:none;
     padding-top: 10px
 }

@@ -1,8 +1,5 @@
 <?php
 // $Id: page.tpl.php,v 1.11 2008/01/24 09:42:51 goba Exp $
-//if($user->uid == 1):
-//print_r($template_files);
-//endif;
 ?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="<?php print $language->language ?>" lang="<?php print $language->language ?>" dir="<?php print $language->dir ?>">
@@ -34,13 +31,6 @@
                           <?php endif; ?>
                         <div class="clear-block"></div>
                     </div>
-                    <!--<div id="header-right">-->
-                        <?php //if($topcontact):?>
-                        <!--<div id="topcontact"><?php //print $topcontact; ?></div>-->
-                        <?php //endif; ?>
-                        <!--<div id="search"></div>-->
-                        
-                    <!--</div>-->
                     <div id="site-menu">
                             <div class="menu">
                               <?php

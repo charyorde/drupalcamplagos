@@ -227,3 +227,4 @@ $cookie_domain = 'drupalnigeria.org';
 #   'forum'      => 'Discussion board',
 #   '@count min' => '@count minutes',
 # );
+# 
